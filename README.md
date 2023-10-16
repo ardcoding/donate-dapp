@@ -1,6 +1,15 @@
-# donate-dapp![Foundation Details (9)](https://github.com/ardcoding/donate-dapp/assets/76576599/eecf0c12-ad90-4851-b682-29d02fc2e375)
-![Home (9)](https://github.com/ardcoding/donate-dapp/assets/76576599/2d1c94a2-56dd-4f5b-a303-8d3cb70aa10e)
-![Component 2](https://github.com/ardcoding/donate-dapp/assets/76576599/8e89a0c8-d64b-49aa-a4bd-13622d362527)
-![Component 1](https://github.com/ardcoding/donate-dapp/assets/76576599/6ef587f6-9ee0-4ec0-864d-8183a5e2d5f6)
-![Foundation Details (7)](https://github.com/ardcoding/donate-dapp/assets/76576599/a7716ca9-c115-4692-aff6-b76a4f988271)
-![Foundation Details (8)](https://github.com/ardcoding/donate-dapp/assets/76576599/30ac2633-03aa-4804-8d94-13a913ad77d2)
+# donate-dapp!
+
+
+
+![Component 2](https://github.com/ardcoding/donate-dapp/assets/76576599/b9d90d1b-791b-41bc-99ae-7bf9e2a42b75)
+![Walkthrough-1](https://github.com/ardcoding/donate-dapp/assets/76576599/b504b811-4ac1-4f4d-b19b-af40e65fe23b)
+![Walkthrough-2](https://github.com/ardcoding/donate-dapp/assets/76576599/7a6409ac-c960-4ef5-a068-6a1f7cf5a93f)
+![Walkthrough-3](https://github.com/ardcoding/donate-dapp/assets/76576599/e2b290f3-45dc-43bd-ba38-62d1622b91c5)
+![Sign up (3)](https://github.com/ardcoding/donate-dapp/assets/76576599/50eed568-5a04-4c62-9fc6-86d4253deffe)
+![Home (6)](https://github.com/ardcoding/donate-dapp/assets/76576599/304d242b-c1c8-4219-877c-24ff3811c56d)
+![Mask group](https://github.com/ardcoding/donate-dapp/assets/76576599/de610844-397e-4388-b83b-6f258afbe15a)
+![Component 1](https://github.com/ardcoding/donate-dapp/assets/76576599/f007c01a-caf2-4797-86ec-c47f6926e4df)
+![Foundation Details (7)](https://github.com/ardcoding/donate-dapp/assets/76576599/79e1cb87-18c2-4f75-9763-774138333fb6)
+![Foundation Details (8)](https://github.com/ardcoding/donate-dapp/assets/76576599/242aa0bc-7371-47db-b36c-828389822e6a)
+![Foundation Details (9)](https://github.com/ardcoding/donate-dapp/assets/76576599/1e68cd1c-2655-48d0-aa52-40dcbffd2303)
