@@ -1,5 +1,7 @@
 # donate-dapp!
-
+Solve global crises with global solidarity
+DOON 3.0 is decentralized donate platform
+Transparent tx and safely donations
 
 
 ![Component 2](https://github.com/ardcoding/donate-dapp/assets/76576599/b9d90d1b-791b-41bc-99ae-7bf9e2a42b75)
